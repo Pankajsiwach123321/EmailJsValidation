@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Helvetica, 'sans-serif';
+    src: url(./assets/Font/HelveticaNeueLight.otf);
+}
+
+.Helvetica {
+    font-family: Helvetica, 'sans-serif';
+}
+
+.bg-img {
+    background: url(./assets/Images/Vector.png), #000000;
+}
+
+.bg-text {
+    background: linear-gradient(146.79deg, #F4EAD8 0%, #E0B764 97.77%);
+}
